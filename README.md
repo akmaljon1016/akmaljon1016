@@ -5,9 +5,7 @@
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UxNXrBukjZ)
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bobbyg603)
 [![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bobbyg603)
-[![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1268047170?si=70bd315ee3ba4c40)
-
-![profile view count](https://komarev.com/ghpvc/?username=akmaljon1016)
+[![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1268047170?si=70bd315ee3ba4c40)![profile view count](https://komarev.com/ghpvc/?username=akmaljon1016)
 
 
 I am Akmaljon Sotvoldiev from Uzbekistan!,I am mobile developer (Android and Flutter simultaneously)
