@@ -12,6 +12,6 @@
 ![profile view count](https://komarev.com/ghpvc/?username=akmaljon1016)
 
 
-I am Akmaljon Sotvoldiev from Uzbekistan ![image](https://github.com/user-attachments/assets/570d8e2f-b312-458f-9459-1068e3d29038)
+I am Akmaljon Sotvoldiev from the Uzbekistan 🇺🇿,
 !,I am mobile developer (Android and Flutter simultaneously)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmaljon1016)](https://github.com/anuraghazra/github-readme-stats)
