@@ -23,9 +23,9 @@ I am Akmaljon Sotvoldiev from the Uzbekistan 🇺🇿,I am a huge fan of Mobile 
 
 ## 🌱 I’m currently learning
 
+  <img src="https://github.com/user-attachments/assets/0e528a38-bc64-4c73-b6b6-6abf9bf583c2" alt="IOS Development" width="50" height="50">
   <img src="https://github.com/user-attachments/assets/bfd0bf04-a84a-4eb0-b69a-c0b51efc1710" alt="Russian language" width="50" height="50">
   <img src="https://github.com/user-attachments/assets/522873a4-b544-4257-8207-1cbb4bc665af" alt="Artificail Intiligence" width="50" height="50">
-  <img src="https://github.com/user-attachments/assets/666f0969-82e1-4957-ae9e-e5453f43c1ad" alt="IOS Development" width="50" height="50">
 
 
 
