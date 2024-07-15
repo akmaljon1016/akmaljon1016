@@ -16,11 +16,8 @@ I am Akmaljon Sotvoldiev from the Uzbekistan 🇺🇿,I am a huge fan of Mobile 
 
 🔭 I'm currently working on
 
-[![Ijrochi](https://github.com/user-attachments/assets/08843555-66e1-47f1-9765-4676d4633308)
-)](https://play.google.com/store/apps/details?id=uz.premiumsoft.ijrochi&pcampaignid=web_share)
-
 <a href="https://play.google.com/store/apps/details?id=uz.premiumsoft.ijrochi&pcampaignid=web_share">
-  <img src="https://github.com/user-attachments/assets/08843555-66e1-47f1-9765-4676d4633308" alt="Ijrochi" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/08843555-66e1-47f1-9765-4676d4633308" alt="Ijrochi" width="100" height="100">
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmaljon1016)](https://github.com/anuraghazra/github-readme-stats)
