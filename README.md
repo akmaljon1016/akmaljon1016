@@ -4,7 +4,7 @@
 [![medium profile link](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akmaljonsotvoldiev1998)
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akmaljon_sotvoldiev)
 [![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Akmaljon1016)
-[![twitter profile link](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](@akmaljon_sotvoldiev)
+[![twitter profile link](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/akmaljon_sotvoldiev)
 
 ## 🙋‍♂️ About me
 
