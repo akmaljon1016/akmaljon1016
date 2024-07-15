@@ -30,7 +30,7 @@ I am Akmaljon Sotvoldiev from the Uzbekistan 🇺🇿,I am a huge fan of Mobile 
 
 
 
-  ## 📦 Language and Toos
+  ## 📦 Languages and Tools
   <img src="https://github.com/user-attachments/assets/db01573a-9a6c-4e10-a072-431591feb6d4" alt="IOS Development" width="50" height="50">
   <img src="https://github.com/user-attachments/assets/67d33476-0610-4074-a51a-186f429390d7" alt="IOS Development" width="50" height="50">
   <img src="https://github.com/user-attachments/assets/5e7a1838-dbfb-4fb2-a255-f958e671fb93" alt="IOS Development" width="50" height="50">
