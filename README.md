@@ -15,6 +15,7 @@
 I am Akmaljon Sotvoldiev from the Uzbekistan 🇺🇿,I am a huge fan of Mobile development expecially Android native and Flutter cross platform and writing testable software 💻.
 
 🔭 I'm currently working on
-https://play.google.com/store/apps/details?id=uz.premiumsoft.ijrochi&pcampaignid=web_share
+[![chinese flag](assets/chinese-flag-round.svg)](https://play.google.com/store/apps/details?id=uz.premiumsoft.ijrochi&pcampaignid=web_share)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmaljon1016)](https://github.com/anuraghazra/github-readme-stats)
