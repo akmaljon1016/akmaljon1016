@@ -20,8 +20,10 @@ I am Akmaljon Sotvoldiev from the Uzbekistan 🇺🇿,I am a huge fan of Mobile 
   <img src="https://github.com/user-attachments/assets/08843555-66e1-47f1-9765-4676d4633308" alt="Ijrochi" width="100" height="100">
 </a>
 <a href="https://play.google.com/store/apps/details?id=uz.premiumsoft.medkpi&pcampaignid=web_share">
-  <img src="https://github.com/user-attachments/assets/d152f018-9246-4cf5-aa06-12dee8946df6" alt="MedKPI" width="100" height="100">
+  <img src="https://github.com/user-attachments/assets/2d983778-bff9-41d5-826a-7f1b19c84a74" alt="MedKPI" width="100" height="100">
 </a>
+<!-- ![logoPng](https://github.com/user-attachments/assets/2d983778-bff9-41d5-826a-7f1b19c84a74)
+ -->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmaljon1016)](https://github.com/anuraghazra/github-readme-stats)
